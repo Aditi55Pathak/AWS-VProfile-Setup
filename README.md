@@ -13,10 +13,6 @@
   - [Goals](#goals-1)
   - [Architecture](#architecture-1)
   - [Steps](#steps-1)
-- [Technologies Used](#technologies-used)
-- [Contributors](#contributors)
-
----
 
 ## Project 1: Lift and Shift Application Workload
 
@@ -98,19 +94,6 @@ The project focuses on re-architecting a web application on the AWS cloud to enh
    - Perform thorough testing to ensure the application functions correctly.
    - Validate performance, security, and compliance.
 
----
 
-## Technologies Used
-- **AWS Services**: EC2, ELB, Auto Scaling, RDS, S3, VPC, Lambda, API Gateway, Aurora, DynamoDB, CodePipeline, CodeBuild, CodeDeploy, CloudWatch, X-Ray, Amplify, CloudFront.
-- **Languages and Tools**: Python, Node.js, Shell Scripting, Terraform, CloudFormation, Jenkins, Git.
 
----
 
-## Contributors
-- **Aditi**
-
-Feel free to reach out for any questions or further assistance!
-
----
-
-This README provides a comprehensive overview of the two projects, detailing the goals, architecture, and steps involved in each project. It also highlights the technologies used and acknowledges the contributors.
