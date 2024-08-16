@@ -1,6 +1,4 @@
-Sure! Here’s a README file for the AWS projects:
 
----
 
 # AWS Projects: Lift and Shift & Re-Architecting Web App
 
